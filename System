@@ -1,1 +1,28 @@
-SYSTEM\\CurrentControlSet\\Control\\IDConfigDB\\Hardware Profiles\\0001,HwProfileGUID,SYSTEM\\CurrentControlSet\\Control\\Class\\{4D36E972-E325-11CE-BFC1-08002BE10318}\\0012,NetworkAddress,SYSTEM\\CurrentControlSet\\Control\\Class\\{4d36e968-e325-11ce-bfc1-08002be10318}\\0000,UserModeDriverGUID,SOFTWARE\\Microsoft\\Cryptography,MachineGuid,SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion,ProductID,SOFTWARE\\Microsoft\\SQMClient,MachineId
+{
+ "Paths":[
+ {
+  "Profile":"SYSTEM\\CurrentControlSet\\Control\\IDConfigDB\\Hardware Profiles\\0001",
+  "Offset":"HwProfileGUID"
+  },
+  {
+  "Profile":"SYSTEM\\CurrentControlSet\\Control\\Class\\{4D36E972-E325-11CE-BFC1-08002BE10318}\\0012",
+  "Offset":"NetworkAddress"
+  },
+  {
+  "Profile":"SYSTEM\\CurrentControlSet\\Control\\Class\\{4d36e968-e325-11ce-bfc1-08002be10318}\\0000",
+  "Offset":"UserModeDriverGUID"
+  },
+  {
+  "Profile":"SOFTWARE\\Microsoft\\Cryptography",
+  "Offset":"MachineGuid"
+  },
+  {
+  "Profile":"SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion",
+  "Offset":"ProductID"
+  },
+  {
+  "Profile":"SOFTWARE\\Microsoft\\SQMClient",
+  "Offset":"MachineId"
+  }  
+ ]
+ }
