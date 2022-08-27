@@ -47,6 +47,14 @@
   {
   "Profile":"SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion",
   "Offset":"RegisteredOrganization"
+  },
+  {
+  "Profile":"SYSTEM\\CurrentControlSet\\Control\\ComputerName\\ActiveComputerName",
+  "Offset":"ComputerName"
+  },
+  {
+  "Profile":"SYSTEM\\CurrentControlSet\\Control\\ComputerName\\ComputerName",
+  "Offset":"ComputerName"
   }
  ]
  }
