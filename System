@@ -35,6 +35,18 @@
   {
   "Profile":"SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\WindowsUpdate",
   "Offset":"SusClientId"
-  } 
+  },
+  {
+  "Profile":"SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion",
+  "Offset":"InstallDate"
+  },
+  {
+  "Profile":"SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion",
+  "Offset":"RegisteredOwner"
+  },
+  {
+  "Profile":"SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion",
+  "Offset":"RegisteredOrganization"
+  }
  ]
  }
