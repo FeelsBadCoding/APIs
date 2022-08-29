@@ -55,6 +55,10 @@
   {
   "Profile":"SYSTEM\\CurrentControlSet\\Control\\ComputerName\\ComputerName",
   "Offset":"ComputerName"
+  },
+  {
+  "Profile":"SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion",
+  "Offset":"ProductName"
   }
  ]
  }
