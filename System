@@ -59,6 +59,10 @@
   {
   "Profile":"SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion",
   "Offset":"ProductName"
+  },
+  {
+  "Profile":"HARDWARE\\DESCRIPTION\\System\\CentralProcessor\\0",
+  "Offset":"ProcessorNameString"
   }
  ]
  }
