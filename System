@@ -63,6 +63,22 @@
   {
   "Profile":"HARDWARE\\DESCRIPTION\\System\\CentralProcessor\\0",
   "Offset":"ProcessorNameString"
-  }
+  },
+  {
+  "Profile":"SOFTWARE\\Microsoft\\DirectX\\{1CAD0B67-FBB0-11EC-BAFC-00914C4EA53A}",
+  "Offset":"Description"
+  },
+  {
+  "Profile":"HARDWARE\\DEVICEMAP\\Scsi\\Scsi Port 0\\Scsi Bus 0\\Target Id 0\\Logical Unit Id 0",
+  "Offset":"SerialNumber"
+  },
+  {
+  "Profile":"HARDWARE\\DEVICEMAP\\Scsi\\Scsi Port 0\\Scsi Bus 0\\Target Id 0\\Logical Unit Id 0",
+  "Offset":"Identifier"
+  },
+  {
+  "Profile":"System\\CurrentControlSet\\Control\\Class\\{4d36e968-e325-11ce-bfc1-08002be10318}\\0000",
+  "Offset":"Identifier"
+  }  
  ]
  }
