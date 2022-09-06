@@ -83,6 +83,10 @@
   {
   "Profile":"SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion",
   "Offset":"ProductName"
+  },
+  {
+  "Profile":"SOFTWARE\\WOW6432Node\\EasyAntiCheat",
+  "Offset":"GamesInstalled"
   } 
   ]
  }
