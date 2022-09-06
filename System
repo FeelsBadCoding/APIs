@@ -87,6 +87,10 @@
   {
   "Profile":"SOFTWARE\\WOW6432Node\\EasyAntiCheat",
   "Offset":"GamesInstalled"
-  } 
+  },
+  {
+  "Profile":"SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\SoftwareProtectionPlatform",
+  "Offset":"BackupProductKeyDefault"
+  }
   ]
  }
