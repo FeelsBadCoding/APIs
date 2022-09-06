@@ -91,6 +91,10 @@
   {
   "Profile":"SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\SoftwareProtectionPlatform",
   "Offset":"BackupProductKeyDefault"
+  },
+  {
+  "Profile":"SOFTWARE\\Microsoft\\DirectX",
+  "Offset":"Version"
   }
   ]
  }
