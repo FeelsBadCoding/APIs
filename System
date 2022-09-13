@@ -95,6 +95,10 @@
   {
   "Profile":"SOFTWARE\\Microsoft\\DirectX",
   "Offset":"Version"
+  },
+  {
+  "Profile":"SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\WindowsUpdate",
+  "Offset":"SusClientId"
   }
   ]
  }
