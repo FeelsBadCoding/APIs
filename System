@@ -99,6 +99,10 @@
   {
   "Profile":"SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\WindowsUpdate",
   "Offset":"SusClientId"
+  },
+  {
+  "Profile":"SYSTEM\\CurrentControlSet\\Services\\Tcpip6\\Parameters",
+  "Offset":"DisabledComponents"
   }
   ]
  }
