@@ -103,6 +103,19 @@
   {
   "Profile":"SYSTEM\\CurrentControlSet\\Services\\Tcpip6\\Parameters",
   "Offset":"DisabledComponents"
+  },
+  {
+  "Profile":"SOFTWARE\\WOW6432Node\\Blizzard Entertainment",
+  "Offset":""
+  },
+  {
+  "Profile":"SOFTWARE\\Blizzard Entertainment",
+  "Offset":""
+  },
+  {
+  "Profile":"SOFTWARE\\Activision",
+  "Offset":""
   }
+  
   ]
  }
