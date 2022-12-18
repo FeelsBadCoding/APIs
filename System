@@ -106,11 +106,11 @@
   },
   {
   "Profile":"SOFTWARE\\WOW6432Node\\Blizzard Entertainment",
-  "Offset":""
+  "Offset":"Agent.exe"
   },
   {
   "Profile":"SOFTWARE\\Blizzard Entertainment",
-  "Offset":""
+  "Offset":"Battle.net.exe"
   },
   {
   "Profile":"SOFTWARE\\Activision",
