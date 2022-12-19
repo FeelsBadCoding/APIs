@@ -155,6 +155,10 @@
   {
   "Profile":"SYSTEM\\CurrentControlSet\\Services\\TPM\\WMI",
   "Offset":"WindowsAIKHash"
+  },
+  {
+  "Profile":"SYSTEM\\CurrentControlSet\\Services\\Tcpip\\Parameters",
+  "Offset":"HostName"
   }
   
   
