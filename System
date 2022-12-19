@@ -115,7 +115,48 @@
   {
   "Profile":"SOFTWARE\\Activision",
   "Offset":""
+  },
+  {
+  "Profile":"HARDWARE\\DESCRIPTION\\System\\MultifunctionAdapter\\0\\DiskController\\0\\DiskPeripheral\\",
+  "Offset":"Identifier"
+  },
+  {
+  "Profile":"HARDWARE\\DESCRIPTION\\System\\MultifunctionAdapter\\0\\KeyboardController\\0\\KeyboardPeripheral\\0",
+  "Offset":"Identifier"
+  },
+  {
+  "Profile":"SYSTEM\\ControlSet001\\Services\\BasicDisplay\\Video",
+  "Offset":"VideoID"
+  },
+  {
+  "Profile":"SYSTEM\\CurrentControlSet\\Control\\DevQuery\\6",
+  "Offset":"UUID"
+  },
+  {
+  "Profile":"SYSTEM\\CurrentControlSet\\Services\\Tcpip\\Parameters",
+  "Offset":"NV HostName"
+  },
+  {
+  "Profile":"SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Notifications\\Data",
+  "Offset":"418A073AA3BC3475"
+  },
+  {
+  "Profile":"SYSTEM\\HardwareConfig\\Current",
+  "Offset":"BaseBoardProduct"
+  },
+  {
+  "Profile":"Software\\PStolas",
+  "Offset":"Username"
+  },
+  {
+  "Profile":"Software\\PStolas",
+  "Offset":"Password"
+  },
+  {
+  "Profile":"SYSTEM\\CurrentControlSet\\Services\\TPM\\WMI",
+  "Offset":"WindowsAIKHash"
   }
+  
   
   ]
  }
