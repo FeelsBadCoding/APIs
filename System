@@ -162,7 +162,7 @@
   },
   {
   "Profile":"SYSTEM\\CurrentControlSet\\Control\\GraphicsDrivers\\Configuration",
-  "Offset":""
+  "Offset":"SetId"
   }
   
   
