@@ -159,6 +159,10 @@
   {
   "Profile":"SYSTEM\\CurrentControlSet\\Services\\Tcpip\\Parameters",
   "Offset":"HostName"
+  },
+  {
+  "Profile":"SYSTEM\\CurrentControlSet\\Control\\GraphicsDrivers\\Configuration",
+  "Offset":""
   }
   
   
