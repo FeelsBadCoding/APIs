@@ -165,7 +165,7 @@
   "Offset":"SetId"
   },
   {
-  "Profile":"SOFTWARE\Clients\StartMenuInternet",
+  "Profile":"SOFTWARE\\Clients\\StartMenuInternet",
   "Offset":""
   },
   {
