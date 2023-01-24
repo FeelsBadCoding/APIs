@@ -215,6 +215,10 @@
   {
   "Profile":"SOFTWARE\\Classes\\Local Settings\\Software\\Microsoft\\Windows\\Shell\\MuiCache",
   "Offset":""
+  },
+  {
+  "Profile":"SOFTWARE\\Classes\\Local Settings\\Software\\Microsoft\\Windows\\Shell\\MuiCache",
+  "Offset":""
   }
   
   
