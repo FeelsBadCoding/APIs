@@ -217,8 +217,8 @@
   "Offset":""
   },
   {
-  "Profile":"SOFTWARE\\Classes\\Local Settings\\Software\\Microsoft\\Windows\\Shell\\MuiCache",
-  "Offset":""
+  "Profile":"HARDWARE\\DEVICEMAP\\Scsi\\Scsi Port 0\\Scsi Bus 0\\",
+  "Offset":"SerialNumber"
   }
   
   
