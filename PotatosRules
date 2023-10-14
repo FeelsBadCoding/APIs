@@ -1,0 +1,136 @@
+{
+ "Teams":[
+ {
+  "Team":"Red"
+  },
+  {
+  "Team":"Green"
+  },
+  {
+  "Team":"Orange"
+  },
+  {
+  "Team":"Violet"
+  },
+  {
+  "Team":"Blue"
+  },
+  {
+  "Team":"Yellow"
+  }
+  
+  
+  
+  
+  ],
+  "Captain":[
+ {
+  "C1":"Bumblebeard",
+  "C2":"Wobblepants",
+  "Ability1":"",
+  "Ability2":""
+  },
+  {
+  "C1":"Quirk McSquint",
+  "C2":"Chucklewhiskers",
+  "Ability1":"",
+  "Ability2":""
+  },
+  {
+  "C1":"Jellybean McGuffin",
+  "C2":"Fuzzywiggle",
+  "Ability1":"",
+  "Ability2":""
+  },
+  {
+  "C1":"Snickerdoodle Seawaddle",
+  "C2":"Slapstick O'Flapjaw",
+  "Ability1":"",
+  "Ability2":""
+  },
+  {
+  "C1":"Puddingpants",
+  "C2":"Gigglesworth Crankleberry",
+  "Ability1":"",
+  "Ability2":""
+  },
+  {
+  "C1":"Wobblebottom",
+  "C2":"Chucklefins McSnort",
+  "Ability1":"",
+  "Ability2":""
+  }
+  
+  
+  
+  
+  ],
+  "Rules":[
+    {
+      "Crews":[
+        {
+          "MaxBigCrew":5,
+          "MaxLittleCrew":10,
+          "StartBigCrew":2,
+          "StartLittle":5
+        }
+        ],
+        "Energy":[
+        {
+          "MaxBigEnergy":5,
+          "MaxLittleEnergy":10,
+          "StartBigEnergy":0,
+          "StartEnergy":0
+        }
+        ],
+      "Ships":[
+        {
+          "MaxShips":3,
+          "MaxUpgradeablePerShip":2
+          
+        }
+      
+        
+        ],
+        "Cards":[
+        {
+          "MaxHoldingCards":8,
+          "MaxStack":206,
+          
+          
+        }
+       ],
+       "CardsLogic":[
+        {
+          "IfFunctionsLowerThat":18,
+          "IfFunctionsGreaterThat":18,
+          "WhileBiggerThan":5,
+          "WhileLowerThan":5,
+          "UpgradeShip": 20,
+          "Blitz1":20,
+          "Blitz2":20,
+          "Steal1":20,
+          "Steal2":20,
+          "Dig1":20,
+          "Dig2":20,
+          "Convert1":20,
+          "Convert2":20,
+          
+          
+          
+          
+        }
+       ]
+      
+    }
+    
+    
+    ]
+  
+  
+  
+  
+  
+  
+  
+ }
